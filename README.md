@@ -1,2 +1,14 @@
 # ExpressFileSystemExample
-Simple example use node.js module file system with Express js
+Simple example use Node.js module file system with Express js
+
+## Install with npm
+
+```
+    $ npm install
+```
+
+## Run app
+
+```
+    $ npm start
+```

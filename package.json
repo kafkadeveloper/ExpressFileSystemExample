@@ -1,0 +1,22 @@
+{
+  "name": "express-filesystem-example",
+  "version": "1.0.0",
+  "description": "Simple example use node.js module file system with Express js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tony133/ExpressFileSystemExample.git"
+  },
+  "keywords": [
+    "express",
+    "filesystem"
+  ],
+  "author": "Tony133",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
